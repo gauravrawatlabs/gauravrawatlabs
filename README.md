@@ -1,43 +1,47 @@
-👋 Hey, I'm Gaurav Singh Rawat
-💻 Full Stack Developer | Software Engineer | AI/ML Enthusiast
 
-Welcome to GauravRawatLabs 🚀
+# 👋 Hey, I'm Gaurav Singh Rawat
+## 💻 Full Stack Developer | Software Engineer | AI/ML Enthusiast
+
+## Welcome to GauravRawatLabs 🚀
 
 I love building applications, exploring new technologies, and turning ideas into real-world solutions.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages
+### Languages
 
 C#, Python, PHP, JavaScript, TypeScript
 
-Frontend
+### Frontend
 
 Angular, React, HTML5, CSS3, Bootstrap
 
-Backend
+### Backend
 
 .NET, ASP.NET Core, PHP, Python, REST APIs
 
-AI & Machine Learning
+### AI & Machine Learning
 
-Artificial Intelligence
-Machine Learning
-Python AI Projects
+- Artificial Intelligence
+- Machine Learning
+- Python AI Projects
 
-Database & Tools
+### Database & Tools
 
-SQL Server, MySQL, MongoDB
-Git, GitHub
-🚀 What I'm Interested In
-Full Stack Web Development
-Software Engineering
-AI & Machine Learning
-Building Scalable Applications
-Open Source Projects
-💡 My Philosophy
+- SQL Server, MySQL, MongoDB
+- Git, GitHub
+
+## 🚀 What I'm Interested In
+- Full Stack Web Development
+- Software Engineering
+- AI & Machine Learning
+- Building Scalable Applications
+- Open Source Projects
+
+## 💡 My Philosophy
 One Developer. Multiple Technologies. Endless Possibilities.
-🤝 Connect With Me
+
+## 🤝 Connect With Me
 GitHub: @gauravrawatlabs
 
-⭐ Thanks for visiting my profile!
+#### ⭐ Thanks for visiting my profile!
