@@ -65,6 +65,7 @@
 
 ## 🤝 Let's Connect
 - 🐙 GitHub: @gauravrawatlabs
+- 📫 How to reach me: grawat768@gmail.com
 - 💼 LinkedIn: Add your LinkedIn profile
 - 📧 Email: Add your email address
 
