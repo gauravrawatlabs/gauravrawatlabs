@@ -71,3 +71,7 @@
 ### ⭐ Thanks for visiting my profile!
 #### 💙 If you like my work, feel free to explore my repositories and connect with me.
 ## 🔥 Think | Build | Innovate | Repeat
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gauravrawatlabs&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
